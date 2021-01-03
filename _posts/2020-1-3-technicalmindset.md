@@ -61,13 +61,6 @@ Let's see what happens when I use study routine A, then try out B, and C. Hmmm..
 ## Okay, but how?
 This sounds awesome! How do I start? Take your time and research the different domains of cyber security. Choose a path, and pick one. Stick with it for a little while and see if you like it. This can be doing a CTF (Capture-The-Flag), taking a programming class at community college, or just starting a certification... The best part of just starting? None of your time goes to waste. Security is interconnected with every aspect of technology (and our life, as a whole), meaning your experience in one domain is beneficial when you transition into another. This means if you get stuck doing something you dislike, you always have the opportunity to pivot into something new. 
 
-Below are some videos/podcasts I listen to to get into that proactive mindset and stay motivated:
-
-[DarknetDiaries](https://darknetdiaries.com/) -Podcast to listen to security-related stories from "the dark side of the web".
-[NetworkChuck](https://networkchuck.com/) -Youtuber that covers everything in IT, and gets you hyped for it! 
-[TheCyberMentor](https://www.thecybermentor.com/) -Youtuber and Cyber Security Business owner that covers various cyber security career topics.
-
-Listen to these while on your drive to work, and start thinking about your next steps.
 
 ## Summary/TLDR;
 We've learned that the most helpful thing to start in cyber security is your mindset. Change your mindset from a passive "What if?" to a proactive "Let's see what happens...". This is applicable to any aspect of security, whether it's for applying to jobs, troubleshooting technology, or studying for certifications. This will take you out of your comfort zone, and will make you grow exponentially! The following posts from my blog will be more specific in regards to what worked for me once I had achieved the right mindset to begin thinking about security.
