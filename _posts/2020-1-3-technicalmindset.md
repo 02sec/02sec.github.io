@@ -23,12 +23,12 @@ Apply for your first technical job.
 ###### What if?
 What if I don't get accepted? What if I don't get a callback? What if I'm no good at this job?
 
-⋅⋅ Take a breather, and apply anyway. You never know unless you apply, and don't let yourself be the decision maker for the hiring manager, that's what they're there for. Switch gears into...
+⋅ Take a breather, and apply anyway. You never know unless you apply, and don't let yourself be the decision maker for the hiring manager, that's what they're there for. Switch gears into...
 
 ###### Let's see what happens...
 Let's see what happens when I apply. I wonder what kind of questions they'll ask? Maybe I'll learn something during the interview that I can study up on for future interviews!
 
-⋅⋅ Take that leap of faith and apply! This is the hardest step for getting into the tech industry. Don't sell yourself short, and apply to anything that interests you. If you get no replies back, have someone peer-review your resume or study up on subjects that are consistently requested for on the job postings. Maybe go to virtual conferences and network with others. 
+⋅ Take that leap of faith and apply! This is the hardest step for getting into the tech industry. Don't sell yourself short, and apply to anything that interests you. If you get no replies back, have someone peer-review your resume or study up on subjects that are consistently requested for on the job postings. Maybe go to virtual conferences and network with others. 
 
 ##### Situation 2:
 Setup a network environment you've never heard of before. This could be anything from connecting workstations to a domain, to creating GPOs to map drives on a share server.
@@ -36,12 +36,12 @@ Setup a network environment you've never heard of before. This could be anything
 ###### What if?
 What if I mess this up? What if I can't find the solution? What if I'm way over my head, and I don't belong in tech?
 
-⋅⋅ Take a breather, and remind yourself that there is an answer to this problem. It's okay to not know it off the top of your head. Use our best friend Google to search for potential answers to your problem, and then switch gears into...
+⋅ Take a breather, and remind yourself that there is an answer to this problem. It's okay to not know it off the top of your head. Use our best friend Google to search for potential answers to your problem, and then switch gears into...
 
 ###### Let's see what happens...
 Let's see what happens if I build a domain using method X, then try Y and Z. Nope! That didn't work. Maybe if I do A, then B and C... okay, now we're getting something. 
 
-⋅⋅ You'll learn something new when presented with a previously unknown answer to a situation you had no idea about. Now you'll have experienced that situation, and also have learned about a new feature, application, or programming language to help you with in the future. 
+⋅ You'll learn something new when presented with a previously unknown answer to a situation you had no idea about. Now you'll have experienced that situation, and also have learned about a new feature, application, or programming language to help you with in the future. 
 
 ##### Situation 3:
 You have to get XYZ certification in 6 months for that promotion you've been wanting. Where do you begin?
@@ -49,21 +49,36 @@ You have to get XYZ certification in 6 months for that promotion you've been wan
 ###### What if?
 What if I can't pass? What if I waste 6 months for nothing? What if I don't belong in tech?
 
-⋅⋅ Breathe, research the certification, join a Discord community and make a study plan. Switch gears into...
+⋅ Breathe, research the certification, join a Discord community and make a study plan. Switch gears into...
 
 ###### Let's see what happens...
 Let's see what happens when I use study routine A, then try out B, and C. Hmmm... I don't like study routine A, I think I'll just stick with study routine B and C. 
 
-⋅⋅ No better way to start studying, than to just start studying! We are fortunate in that most technical certifications are international, meaning no matter where you are in the world, you have a community at your fingertips who's walked that path before. 
+⋅ No better way to start studying, than to just start studying! We are fortunate in that most technical certifications are international, meaning no matter where you are in the world, you have a community at your fingertips who's walked that path before. 
 
 ---
 
 ## Okay, but how?
-This sounds awesome! How do I start? Take your time and research the different domains of cyber security. Choose a path, and pick one. Stick with it for a little while and see if you like it. This can be doing a CTF (Capture-The-Flag), taking a programming class at community college, or just starting a certification... The best part of just starting? None of your time goes to waste. Security is interconnected with every aspect of technology (and our life, as a whole), meaning your experience in one domain is beneficial when you transition into another. This means if you get stuck doing something you dislike, you always have the opportunity to pivot into something new. 
+This sounds awesome! How do I start? You can start by jumping right into the community. Join a discord channel, follow a YouTuber, lurk on the subreddits. We've all had to overcome (and continue to) overcome this mindset obstacle, but you don't have to do it alone. Some awesome communities to join are below:
 
+Reddit:
+[SecurityCareerAdvice](https://www.reddit.com/r/SecurityCareerAdvice/)
+[CyberSecurity](https://www.reddit.com/r/cybersecurity/)
+[ITCareerQuestions](https://www.reddit.com/r/ITCareerQuestions/)
+
+Youtubers:
+[NetworkChuck](https://www.youtube.com/user/NetworkChuck)
+[TheCyberMentor](https://www.youtube.com/c/TheCyberMentor)
+[JohnHammond](https://www.youtube.com/user/RootOfTheNull) (No relation to Jurassic Park)
+
+Podcasts:
+[TheCyberWire](https://thecyberwire.com/podcasts)
+[DarkNetDiaries](https://darknetdiaries.com/)
+[RiskyBiz](https://risky.biz/)
+
+Once you're in the right mindset, we can begin to get more specific on how to start. There's no wrong way to start, and the beautiful thing in our industry is that since everything is interconnected, everything you learn can be used even if you pivot into another domain within cyber security. 
 
 ## Summary/TLDR;
-We've learned that the most helpful thing to start in cyber security is your mindset. Change your mindset from a passive "What if?" to a proactive "Let's see what happens...". This is applicable to any aspect of security, whether it's for applying to jobs, troubleshooting technology, or studying for certifications. This will take you out of your comfort zone, and will make you grow exponentially! The following posts from my blog will be more specific in regards to what worked for me once I had achieved the right mindset to begin thinking about security.
+We've learned that the most helpful thing to start in cyber security is your mindset. Change your mindset from a passive "What if?" to a proactive "Let's see what happens...". This is applicable to any aspect of security, whether it's for applying to jobs, troubleshooting technology, or studying for certifications. This will take you out of your comfort zone, and will help you grow exponentially! The following posts from my blog will be more specific in regards to what worked for me once I had achieved the right mindset to begin thinking about a career in security.
 
 Remember that security is a practice, a continuous journey. Destination: Growth. 
-
