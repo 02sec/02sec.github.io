@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello world! I'm 02sec\\han, a Cyber Security Practitioner with a love for learning and teaching. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Join my journey at the following sites below!
 
-### Contact me
+[LinkedIn\\02sec](https://www.linkedin.com/in/02sec/)
+[GitHub](https://github.com/02sec)
+[HackTheBox](https://www.hackthebox.eu/profile/288360)
 
-[email@domain.com](mailto:email@domain.com)
