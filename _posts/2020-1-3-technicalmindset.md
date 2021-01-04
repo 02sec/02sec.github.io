@@ -3,7 +3,7 @@ layout: post
 title: Technical Mindset
 ---
 
-Hello world! I'm Han, a Cyber Security Practitioner who made the career change from  retail worker to Cyber Security Specialist in a little under 2 years. I'm here to share my .02 cents on going from zero to cyber security with no prior experience or degree required. I'll share some obstacles I've found that need to be overcome to be successful in cyber security, and why YOU can overcome those obstacles, too.
+Hello world! I'm Han, a Cyber Security Practitioner who made the career change from  retail worker to Cyber Security Specialist in a little under 2 years. I'm here to share my .02 cents on going from zero to cyber security with no prior experience or degree required. I'll share some obstacles I've found that need to be overcome in cyber security, and why YOU can overcome those obstacles, too.
 
 
 ## Zero to Security
@@ -62,19 +62,19 @@ Let's see what happens when I use study routine A, then try out B, and C. Hmmm..
 This sounds awesome! How do I start? You can start by jumping right into the community. Join a discord channel, follow a YouTuber, lurk on the subreddits. We've all had to overcome (and continue to) overcome this mindset obstacle, but you don't have to do it alone. Some awesome communities to join are below:
 
 Reddit:
-[SecurityCareerAdvice](https://www.reddit.com/r/SecurityCareerAdvice/)
-[CyberSecurity](https://www.reddit.com/r/cybersecurity/)
-[ITCareerQuestions](https://www.reddit.com/r/ITCareerQuestions/)
+1. [SecurityCareerAdvice](https://www.reddit.com/r/SecurityCareerAdvice/)
+2. [CyberSecurity](https://www.reddit.com/r/cybersecurity/)
+3. [ITCareerQuestions](https://www.reddit.com/r/ITCareerQuestions/)
 
 Youtubers:
-[NetworkChuck](https://www.youtube.com/user/NetworkChuck)
-[TheCyberMentor](https://www.youtube.com/c/TheCyberMentor)
-[JohnHammond](https://www.youtube.com/user/RootOfTheNull) (No relation to Jurassic Park)
+1. [NetworkChuck](https://www.youtube.com/user/NetworkChuck)
+2. [TheCyberMentor](https://www.youtube.com/c/TheCyberMentor)
+3. [JohnHammond](https://www.youtube.com/user/RootOfTheNull) (No relation to Jurassic Park)
 
 Podcasts:
-[TheCyberWire](https://thecyberwire.com/podcasts)
-[DarkNetDiaries](https://darknetdiaries.com/)
-[RiskyBiz](https://risky.biz/)
+1. [TheCyberWire](https://thecyberwire.com/podcasts)
+2. [DarkNetDiaries](https://darknetdiaries.com/)
+3. [RiskyBiz](https://risky.biz/)
 
 Once you're in the right mindset, we can begin to get more specific on how to start. There's no wrong way to start, and the beautiful thing in our industry is that since everything is interconnected, everything you learn can be used even if you pivot into another domain within cyber security. 
 
