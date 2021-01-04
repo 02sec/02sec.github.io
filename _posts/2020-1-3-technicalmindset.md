@@ -13,7 +13,7 @@ This was my scenario, and below you'll find the most important step to take to b
 
 ## Solution?
 ### Mindset!
-The first and major obstacle you must overcome is to have to right mindset. I was uncomfortable with spending time doing something I wasn't sure would pay out, but I took the leap of faith and jumped in. I changed my mindset from a passive "What if?" to a proactive "Let's see what happens", and this is essential in the tech industry. Let me explain: It's impossible to keep up with everything in technology, much less in cyber security. You WILL be thrown into situations in which you have no idea what's up from down. It's 100% okay to not know the solution off the top of your head. What you do to find the answer is the key to success. I'll use 3 examples below to demonstrate what I mean, using both mindsets.
+The first major obstacle you must overcome is to have to right mindset. I was uncomfortable with spending time doing something I wasn't sure would pay out, but I took the leap of faith and jumped in. I changed my mindset from a passive "What if?" to a proactive "Let's see what happens", and this is essential in the tech industry. Let me explain: It's impossible to keep up with everything in technology, much less in cyber security. You WILL be thrown into situations in which you have no idea what's up from down. It's 100% okay to not know the solution off the top of your head. What you do to find the answer is the key to success. I'll use 3 examples below to demonstrate what I mean, using both mindsets.
 
 ---
 
